@@ -1,4 +1,4 @@
-How the Tor Network Protects Its Users
+```How the Tor Network Protects Its Users```
 Understanding the Technology Behind Anonymous Internet Browsing
 
 What Is Tor?
