@@ -68,6 +68,7 @@ Avoid changes to default settings
 Conclusion
 The Tor network protects users through onion routing, end-to-end encryption, decentralized infrastructure, and privacy-focused browser design. It provides strong protection against surveillance, censorship, and tracking. Whether used by journalists, activists, researchers, or everyday users who value privacy, Tor remains one of the most effective tools for online anonymity and digital freedom in the modern internet age.
 
-© 2024 Tor Network Education Project. For informational purposes only.
+```© 2024 Tor Network Education Project. For```
+informational purposes only.
 
 This is an educational resource about Tor technology.
