@@ -1,6 +1,6 @@
 ```How the Tor Network Protects Its Users```
 Understanding the Technology Behind Anonymous Internet Browsing
-
+ 
 What Is Tor?
 The Tor network, short for "The Onion Router," is a powerful privacy tool designed to protect users' identities and online activities from surveillance, tracking, and censorship. Originally developed by the U.S. Naval Research Laboratory, Tor has grown into a global, open-source project that millions rely on every day for secure and anonymous communication.
 
